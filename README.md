@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<infoempleados>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
